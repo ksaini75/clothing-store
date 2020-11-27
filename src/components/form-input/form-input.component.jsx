@@ -17,4 +17,4 @@ const FormInput = ({ handleChange, label, ...props }) => (
   </GroupContainer>
 );
 
-export default FormInput();
+export default FormInput;
